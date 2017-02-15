@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afd5dcc1-8afb-4104-baed-2463a503329e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaObjects.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
-              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -587,12 +586,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487199198474</updated>
-      <workItem from="1487199199747" duration="79000" />
+      <workItem from="1487199199747" duration="179000" />
     </task>
+    <task id="LOCAL-00001" summary="good&#10;">
+      <created>1487199295314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1487199295314</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79000" />
+    <option name="totallyTimeSpent" value="179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1020" extended-state="6" />
@@ -635,6 +642,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="good&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="good&#10;" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -655,7 +666,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
         </state>
       </provider>
